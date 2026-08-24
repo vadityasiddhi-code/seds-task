@@ -14,3 +14,5 @@ So, if my code sees a jump bigger than 50, or if it finds broken text instead of
 At the end, the code uses matplotlib to draw the final graph. I set it up so that the normal, good data points and the ones I had to "fix" show up as completely different colors and shapes. 
 
 I'm really happy with how it turned out because when you look at the graph, it's super easy to tell exactly where the sensor messed up and where my code fix it
+                                                      ##TASK 2##
+To figure out how to connect the components I used google,ai and gained idea of how to join the components , for the coding part I used C++ as the main language , I used light sensor intensity to find if it is storm( less than 50 %) or not , used distance sensor etc as specified , i have created diffrent function's like handlebutton , updatelcd for respective tasks , i was using a lcd screen which has 16 rows and 2 columns , i have specified why I used the particular code and why in comments 
